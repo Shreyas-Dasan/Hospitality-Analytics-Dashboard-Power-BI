@@ -13,11 +13,11 @@ Tools & Features:
 2. Interactive visualizations: Bar charts, line graphs, cards, slicers
 3. Drill-down capabilities and filters by hotel, date, country, and more
 4. DAX measures for KPIs like:
--Total Revenue
--Booking Count
--Average Length of Stay
--Cancellation Rates
--Occupancy Rate
+  -Total Revenue
+  -Booking Count
+  -Average Length of Stay
+  -Cancellation Rates
+  -Occupancy Rate
 
 Key Insights:
 1. Clear visibility into the most profitable market segments and booking sources.
